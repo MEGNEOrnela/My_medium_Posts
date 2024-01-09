@@ -1,6 +1,7 @@
 This notebook contains straightforward steps to implement an image segmentation using Unet-architecture. Since it is just  a starting point, many works need to be done to improve the model's performance.
 
+![Uploading Straightfoward steps for semantic segmentation.png…]()
 
-![Uploading Semantic_segmentation.drawio (1).png…]()
+
 
 The meidcal image framework [Monai](https://medium.com/r/?url=https%3A%2F%2Fmonai.io%2F) has been used to preprocess the [prostate images](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)
