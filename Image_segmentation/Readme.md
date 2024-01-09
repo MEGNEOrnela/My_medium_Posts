@@ -1,6 +1,7 @@
 This notebook contains straightforward steps to implement an image segmentation using Unet-architecture. Since it is just  a starting point, many works need to be done to improve the model's performance.
 
-![Uploading Straightfoward steps for semantic segmentation.png…]()
+![Uploading test_pred.png…]()
+
 
 
 
